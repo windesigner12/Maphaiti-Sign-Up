@@ -25,9 +25,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Preview
 
-<div align="center">
- <img src="./assets/md-images/desktop-preview.png">
- <img src="./assets/md-images/mobile-preview.png">
+<div align ="center">
+ <img src="/assets/images/Screenshot-1.png">
+ <img src="/assets/images/Screeshot-2.png">
 </div>
 
 > **Note**  
