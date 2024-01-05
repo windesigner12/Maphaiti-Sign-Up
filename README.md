@@ -2,8 +2,8 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://0xabdulkhalid.github.io/basket-sign-up/">
-    <img src="./assets/md-images/cart.png" alt="Logo" width="100">
+  <a href="https://github.com/windesigner12/Maphaiti-Sign-Up">
+    <img src="/assets/images/Sign.png" alt="Logo" width="100">
   </a>
 
 <h3 align="center"><b>Sign-up Form</b></h3>
@@ -84,7 +84,8 @@
 
 * Inspiration by [The Odin Project](https://www.theodinproject.com/)
 * Logo Design By Winshelo ST LOUIS
-* <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+* Image Picture from Unspalh  <a href="https://unsplash.com/photos/birds-eye-view-of-islands-guNIjIuUcgY">Denys Nevozhai</a>
+<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
