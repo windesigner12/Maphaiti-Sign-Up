@@ -12,7 +12,7 @@
     For a illusionary MapHaiti, a personal Project
     <br />
     <br />
-    <a href="https://0xabdulkhalid.github.io/basket-sign-up/">View Demo</a>
+    <a href="https://windesigner12.github.io/Maphaiti-Sign-Up/">View Demo</a>
     ·
     <a href="https://github.com/windesigner12/Maphaiti-Sign-Up/issues">Report Bug</a>
     ·
