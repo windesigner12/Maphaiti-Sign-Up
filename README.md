@@ -99,8 +99,8 @@
 ## Author
 
 <div align="center">
-<h1>Wnshelo ST LOUIS</h1>
 <a href="https://www.linkedin.com/in/winshelostlouis/" target="_blank">
+  Wnshelo ST LOUIS
 </a>
 
 </div>
